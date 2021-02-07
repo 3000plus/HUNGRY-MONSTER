@@ -24,6 +24,12 @@
   border-radius: 10px;
 }
 
+.food{
+  margin: 20px;
+  padding: 20px;
+}
+
+
 .food img{
   width: 25%;
   border-radius: 10px;
